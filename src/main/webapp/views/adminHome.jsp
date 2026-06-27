@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Admin Panel - Vijay Shop</title>
+  <title>Admin Panel - Aj Shop</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
@@ -56,7 +56,7 @@
 
 <nav class="vs-nav">
   <div style="display:flex; align-items:center; gap:14px;">
-    <a href="/admin/" class="vs-brand">Vijay<span>Shop</span></a>
+    <a href="/admin/" class="vs-brand">Aj<span>Shop</span></a>
     <span class="vs-badge"><i class="fas fa-shield-alt mr-1"></i>Admin</span>
   </div>
   <div class="vs-nav-links">
@@ -67,7 +67,7 @@
 
 <div class="vs-hero">
   <h1>Welcome Back, <span>${admin}</span> 👋</h1>
-  <p>Manage your store from the Vijay Shop Admin Panel</p>
+  <p>Manage your store from the Aj Shop Admin Panel</p>
 </div>
 
 <div class="vs-section">
@@ -104,7 +104,7 @@
   </div>
 </div>
 
-<div class="vs-footer">&copy; 2024 <strong>Vijay Shop</strong>. Admin Panel.</div>
+<div class="vs-footer">&copy; 2024 <strong>Aj Shop</strong>. Admin Panel.</div>
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>

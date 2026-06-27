@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>All Products - Vijay Shop</title>
+  <title>All Products - Aj Shop</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
@@ -52,7 +52,7 @@
 <body>
 
 <nav class="vs-nav">
-  <a href="/" class="vs-brand">Vijay<span>Shop</span></a>
+  <a href="/" class="vs-brand">Aj<span>Shop</span></a>
   <div class="vs-nav-links">
     <a href="/"><i class="fas fa-home mr-1"></i>Home</a>
     <a href="/cart" class="btn-cart"><i class="fas fa-shopping-cart mr-1"></i>My Cart</a>
@@ -100,7 +100,7 @@
   </c:choose>
 </div>
 
-<div class="vs-footer">&copy; 2024 <strong>Vijay Shop</strong>. All rights reserved.</div>
+<div class="vs-footer">&copy; 2024 <strong>Aj Shop</strong>. All rights reserved.</div>
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
