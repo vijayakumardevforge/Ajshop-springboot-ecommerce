@@ -193,9 +193,7 @@ Adjust branch, deployment steps, and credentials for your environment.
 
 ## Screenshots
 
-![Preview 1](https://github.com/jaygajera17/E-commerce-project-springBoot/assets/81226571/02a04d3c-1fc9-418c-b231-639f6525d07e)
-![Preview 2](https://github.com/jaygajera17/E-commerce-project-springBoot/assets/81226571/24c4451b-43a6-4c23-a78a-786eab4303b0)
-![Preview 3](https://github.com/jaygajera17/E-commerce-project-springBoot/assets/81226571/93c1baeb-326c-450f-867e-a883900a6644)
+![Aj Shop Screenshot](aj_shop_screenshot.png)
 
 ## Roadmap
 
