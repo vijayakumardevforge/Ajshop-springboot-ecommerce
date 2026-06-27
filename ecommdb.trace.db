@@ -1,0 +1,27 @@
+2026-05-18 15:29:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM INFORMATION_SCHEMA.CATALOGS INFORMATION_SCHEMA.[*]COLUMNS INFORMATION_SCHEMA.CATALOGS"; SQL statement:
+SELECT * FROM INFORMATION_SCHEMA.CATALOGS INFORMATION_SCHEMA.COLUMNS INFORMATION_SCHEMA.CATALOGS [42000-200]
+2026-05-18 15:30:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "ID[*]"; expected "INSERT"; SQL statement:
+ID [42001-200]
+2026-05-18 15:31:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+SELECT * FROM Users [42102-200]
+2026-05-18 15:31:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERS" not found; SQL statement:
+SELECT * FROM USERS [42102-200]
+2026-05-18 15:31:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERSQUANTITY" not found; SQL statement:
+SELECT * FROM USERSQUANTITY [42102-200]
+2026-05-18 15:31:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERSQUANTITY" not found; SQL statement:
+SELECT * FROM USERSQUANTITY PRICE [42102-200]
+2026-05-18 15:31:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERSQUANTITY" not found; SQL statement:
+SELECT * FROM USERSQUANTITY PRICE CATEGORY_ID PASSWORD [42102-200]
+2026-05-18 15:31:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERSQUANTITY" not found; SQL statement:
+SELECT * FROM USERSQUANTITY PRICE CATEGORY_ID PASSWORD ID [42102-200]
+2026-05-18 15:31:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERSQUANTITY" not found; SQL statement:
+SELECT * FROM USERSQUANTITY PRICE CATEGORY_ID PASSWORD ID CART_PRODUCT [42102-200]

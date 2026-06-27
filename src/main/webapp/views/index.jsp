@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vijay Shop - Fresh Groceries</title>
+  <title>Aj Shop - Fresh Groceries</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
@@ -109,7 +109,7 @@
 
 <!-- NAVBAR -->
 <nav class="vs-nav">
-  <a href="/" class="vs-brand">Vijay<span>Shop</span></a>
+  <a href="/" class="vs-brand">Aj<span>Shop</span></a>
   <div class="vs-welcome">Welcome back, <strong>${username}</strong></div>
   <div class="vs-nav-links">
     <a href="/user/products"><i class="fas fa-th-large mr-1"></i>Products</a>
@@ -122,7 +122,7 @@
 <!-- HERO -->
 <div class="vs-hero">
   <div class="badge-fresh"><i class="fas fa-leaf mr-1"></i>Fresh &bull; Organic &bull; Fast Delivery</div>
-  <h1>Welcome to <span>Vijay Shop</span></h1>
+  <h1>Welcome to <span>Aj Shop</span></h1>
   <p>Your one-stop destination for fresh groceries, delivered with a smile.</p>
 </div>
 
@@ -165,7 +165,7 @@
 
 <!-- FOOTER -->
 <div class="vs-footer">
-  &copy; 2024 <strong>Vijay Shop</strong>. All rights reserved.
+  &copy; 2024 <strong>Aj Shop</strong>. All rights reserved.
 </div>
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>

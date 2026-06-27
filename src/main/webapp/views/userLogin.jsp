@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>User Login - Vijay Shop</title>
+  <title>User Login - Aj Shop</title>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
@@ -37,7 +37,7 @@
 <body>
 <div class="login-wrap">
   <div class="login-logo">
-    <div class="brand">Vijay<span>Shop</span></div>
+    <div class="brand">Aj<span>Shop</span></div>
     <div class="sub">Fresh Groceries, Delivered Fast</div>
   </div>
   <div class="login-card">

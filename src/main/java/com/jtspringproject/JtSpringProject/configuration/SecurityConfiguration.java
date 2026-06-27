@@ -30,7 +30,8 @@ public class SecurityConfiguration {
 
 		@Bean
 		SecurityFilterChain adminFilterChain(HttpSecurity http) throws Exception {
-			http.antMatcher("/admin/**")
+			http.csrf().disable()
+					.antMatcher("/admin/**")
 					.authorizeHttpRequests(requests -> requests
 							.requestMatchers(new AntPathRequestMatcher("/admin/login")).permitAll()
 							.requestMatchers(new AntPathRequestMatcher("/admin/**")).hasRole("ADMIN"))
@@ -60,8 +61,10 @@ public class SecurityConfiguration {
 
 		@Bean
 		SecurityFilterChain userFilterChain(HttpSecurity http) throws Exception {
-			http.authorizeHttpRequests(requests -> requests
-					.antMatchers("/login", "/register", "/newuserregister").permitAll()
+			http.csrf().disable()
+					.headers().frameOptions().sameOrigin().and()
+					.authorizeHttpRequests(requests -> requests
+					.antMatchers("/login", "/register", "/newuserregister", "/h2-console/**").permitAll()
 					.antMatchers("/**").hasAnyRole("USER", "ADMIN"))
 					.formLogin(login -> login
 							.loginPage("/login")
