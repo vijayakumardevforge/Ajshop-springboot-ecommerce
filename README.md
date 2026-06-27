@@ -93,19 +93,19 @@ http://localhost:8080
 
 🔐 User Login
 
-<img width="1911" height="909" alt="Image" src="https://github.com/user-attachments/assets/e253f7e6-97e2-40df-9bc1-bf06e18cda8e" />📝 Register Screen
+<img width="1536" height="731" alt="Image" src="https://github.com/user-attachments/assets/1e1d1be4-8fe6-4589-9029-e04500b8d8d9" />📝 Register Screen
 
-<img width="1905" height="908" alt="Image" src="https://github.com/user-attachments/assets/cdeebde7-32d4-45c6-8343-3f8c6a563a48" />🛍️ Product Screen
+<img width="1536" height="728" alt="Image" src="https://github.com/user-attachments/assets/fcb4ee39-704f-43d0-9fcc-4daa71b7960e" />🛍️ Product Screen
 
-<img width="1919" height="850" alt="Image" src="https://github.com/user-attachments/assets/a9004249-52bb-45a6-b339-65055cefdc64" />🛒 Cart Screen
+<img width="1536" height="728" alt="Image" src="https://github.com/user-attachments/assets/7c22817d-682b-47a7-815a-1b747d7b359c" />🛒 Cart Screen
 
 <img width="1914" height="910" alt="Image" src="https://github.com/user-attachments/assets/599ebdd5-4e8f-4137-bd03-3616b7415d4a" />👤 User Profile
 
 <img width="1917" height="908" alt="Image" src="https://github.com/user-attachments/assets/bcc0370b-30a9-47bf-b6b2-6109ebd37b95" />🔐 Admin Login
 
-<img width="1747" height="934" alt="Image" src="https://github.com/user-attachments/assets/5c9e8299-3d25-4b3c-a761-c2457927f909" />⚙️ Admin Dashboard
+<img width="1536" height="730" alt="Image" src="https://github.com/user-attachments/assets/bc990a3b-76fb-4a0b-98c8-c71bc5c020fd" />⚙️ Admin Dashboard
 
-<img width="1912" height="882" alt="Image" src="https://github.com/user-attachments/assets/6078237b-5442-4fd8-8792-d494067cd57e" />📂 Categories
+<img width="1536" height="731" alt="Image" src="https://github.com/user-attachments/assets/9401caf4-148e-4acc-921f-fe0dfb1b1c4a" />📂 Categories
 
 <img width="1792" height="871" alt="Image" src="https://github.com/user-attachments/assets/f2bd6739-0063-4504-a7e2-27fd2a53fab1" />👥 Customers
 
